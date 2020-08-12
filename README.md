@@ -6,10 +6,8 @@
 
 Add Your OAuth client id to main.js and open index.html
 
-## App Info
-
 ### Author
-
+ZEWAA
 
 ### Version
 
